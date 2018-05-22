@@ -1,0 +1,21 @@
+.label {
+    -fx-font-family: "Trebuchet MS", Helvetica, sans-serif;
+    -fx-font-size: 10pt;
+    -fx-text-fill: #EFEFEF;
+}
+.button {
+	-fx-font-family: "Trebuchet MS", Helvetica, sans-serif;
+    -fx-font-size: 11pt;
+    -fx-background-color: #EFEFEF;
+    -fx-border-radius: 8px;
+    -fx-transition-duration: 0.4s;
+}
+.button:hover {
+	-fx-background-color: #D1D1D1;
+}
+.root {
+    -fx-background-color: #524E4D;
+    -fx-border-color: #D1D1D1;
+    -fx-border-style: solid;
+    -fx-border-width: 5pt;
+}
